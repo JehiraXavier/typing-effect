@@ -1,1 +1,3 @@
-# typing-effect
+## Live Demo
+
+https://typing-effect-typedjs.netlify.app/
