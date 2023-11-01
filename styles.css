@@ -5,7 +5,7 @@
 }
 
 body {
-  background: url(./background.svg);
+  background: url(images/background.svg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
